@@ -15,7 +15,6 @@
 <h4>
   
 - I’m a backend-focused fullstack engineer 🌉 based in San Francisco.  
-- I love building RESTful APIs ⚡, working with data 📊, and exploring new tools 🛠️ that make systems faster and more reliable.  
 - Always curious and learning 📚, I enjoy experimenting with new technologies and tackling real-world problems with code.  
 - Outside of tech, I’m an absolute fan of sports 🏀⚽🚴‍♂️ and nature 🌲
 
