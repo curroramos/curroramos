@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/curro-ramos-perez/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://curroramos-portfolio.vercel.app/#about">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  </a>
 </div>
 <div id="profile views" align="center">
 <img src="https://komarev.com/ghpvc/?username=curroramos&style=flat-square&color=blue" alt=""/>
