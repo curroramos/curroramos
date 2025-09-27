@@ -1,6 +1,6 @@
 <div id="greetings" align="center">
 <h1>
-  Hey, I'm Dmitry!
+  Hey, I'm Curro!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>Python developer. </h2>
@@ -61,94 +61,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-:briefcase: My projects :
----
-- ## [Photo Uploading Service](https://github.com/Baobear520/PhotoUploader)
-    Tags: *#full-stack web app*
-  
-    A service for asyncronous uploading and processing images (Django, Celery, Redis, PostgreSQL, Docker)
-
-    [Docs](https://github.com/Baobear520/PhotoUploader/blob/main/README.md) / [Документация](https://github.com/Baobear520/PhotoUploader/blob/main/README.md)
-
----
- - ## [TicketSearchSystem](https://github.com/Baobear520/TicketSearchSystem)
-   Tags: *#backend*
-   
-    Implementing an event ticket search engine based on date range, ticket type and category, price range and quantity
-   
-   [Docs](https://github.com/Baobear520/TicketSearchSystem/blob/main/README.md) / [Документация](https://github.com/Baobear520/TicketSearchSystem/blob/main/README.md)
-    
----
-
-
-- ## [Mock User Data Generator](https://github.com/Baobear520/AvitoParser)
-    Tags: *#parser #data #asynchronous Python #AI/ML*
-
-    The project is a part of the app that scores clients' financial credibility using ML and CV.
-
-    It generates mock-users with personal credentials, assigns property objects (*real estate, cars, electronics*) using data from Avito API or CSV files, and stores the information in a Postgres database. The service also downloads property images, saves them in a storage bucket, and processes them with CV models (currently under development).
-    (Python, Selenium, pandas, csv, asyncio, aiohttp, aiofiles, asyncpg, PostgrSQL, MinIO, Docker)
-
-    Also includes:
-    
-    - A framework for extracting large datasets from Avito API and saving them in a CSV file or a Postgres database
-    
-    - A framework for downloading images of the items fetched from  AvitoAPI and saving them locally on a hard drive, in a CSV -file, database, or remotely in a storage bucket
-
-    [Docs](https://github.com/Baobear520/AvitoParser/blob/main/README.md) / [Документация](https://github.com/Baobear520/AvitoParser/blob/main/README_RUS.md)
-
----
-
-- ## [Cadastral Query Service](https://github.com/Baobear520/Cadastral_Query_Service)
-    Tags: *#REST API #microservices*
-  
-    A real estate query service that validates property data by simulating requests to a third-party server, returns the results and stores the data in a database (Python, Django, DRF, SQLite, Celery, Redis, Docker Compose, Swagger).
-
-    [Docs](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README.md) / [Документация](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README_RUS.md)
-
----
-
- - ## [Under The Weather](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
-   Tags: *#full-stack #API*
-   
-    "Under The Weather" helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS, Bootstrap, JavaScript, Docker)
-   
-   [Docs](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/blob/main/README.md) / [Документация](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/blob/main/README_RUS.md)
-    
----
-    
-- ## [Saksoff5th.com e-commerce data scraper](https://github.com/Baobear520/Saksoff5th.com_data_scraper)
-    Tags: *#parser #scraper #data #asynchronous Python #threading*
-  
-    A web scraping application designed to extract large datasets from https://saksoff5th.com using parallel multi-threading and asynchronous HTTP requests and to store obtained data in a database.
-    (Python, Selenium, threading, asyncio, aiohttp, aiofiles, SQLite).
-
-    Also includes:
-    
-    - A framework for testing, filtering out and saving valid proxies that can be used for scraping.
-    
-    [Docs](https://github.com/Baobear520/Saksoff5th.com_data_scraper/blob/main/README.md) / [Документация]()
-
----
-- ## [MMA Events Bot](https://github.com/Baobear520/mma_events_bot)
-    Tags: *#telegram bot #parser #scraper*
-
-    Parses data from https://www.sherdog.com, and sends the bot's user the links to the most recent and upcoming MMA events (Python, Telegram Bot API, request, beautiful soup, python-telegram-bot).
-
-    [Docs](https://github.com/Baobear520/mma_events_bot/blob/main/README.md) / [Документация]()
-
----
-
-- ## [Speech-To-Text Converter](https://github.com/Baobear520/SpeechToText)
-    Tags: *#AI/ML #OpenAI API*
- 
-    Transcribes lyrics/speech from audio files into text and saves it in a .txt file. (Python, openAI API)
-
-    [Docs](https://github.com/Baobear520/SpeechToText/blob/main/README.md) / [Документация]()
-    
     
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=baobear520&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baobear520&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=curroramos&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curroramos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
