@@ -1,6 +1,6 @@
 <div id="greetings" align="center">
 <h1>
-  Hey, I'm Curro!
+  Hey, I'm Francisco!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
