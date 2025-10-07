@@ -19,7 +19,7 @@
   
 - I’m a backend-focused fullstack engineer 🌉 based in San Francisco.  
 - Always curious and learning 📚, I enjoy experimenting with new technologies and tackling real-world problems with code.  
-- Outside of tech, I’m an absolute fan of sports 🏀⚽🚴‍♂️ and nature 🌲
+- Outside of tech, I’m an absolute fan of sports ⚽🚴‍♂️ and nature 🌲
 
 </h4>
 
