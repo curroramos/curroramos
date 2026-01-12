@@ -47,6 +47,7 @@
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
+![Temporal](https://img.shields.io/badge/Temporal-1D1E23?style=for-the-badge&logo=temporal&logoColor=white)
     
 ---
 ### :fire: My Stats :
